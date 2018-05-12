@@ -1,5 +1,5 @@
 _repo: Individualisme-en-socialisme_11739
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Boutens, P. C.
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '4086'
     url: http://www.gutenberg.org/2009/agents/4086
     wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=bout005
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -25,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11739#Individualisme-en-socialisme
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
